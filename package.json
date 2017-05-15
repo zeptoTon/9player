@@ -1,0 +1,19 @@
+{
+  "name": "9player",
+  "version": "1.0.0",
+  "description": "HLS Player",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zeptoTon/9player.git"
+  },
+  "author": "Tony li",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zeptoTon/9player/issues"
+  },
+  "homepage": "https://github.com/zeptoTon/9player"
+}
